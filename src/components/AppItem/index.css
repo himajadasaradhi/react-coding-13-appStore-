@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.image {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+.app-list-container {
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+  width: 110px;
+  height: 120px;
+  align-self: center;
+  align-items: center;
+  padding: 10px;
+  font-family: 'bree serif';
+  font-size: 12px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}

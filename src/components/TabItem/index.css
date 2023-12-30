@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.inactive {
+  background-color: transparent;
+  border-width: 1px;
+  border-color: #dfe2e5;
+  border-style: solid;
+  color: #7b8794;
+  text-align: left;
+  width: 50px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  cursor: pointer;
+}
+.list {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.active {
+  color: #2563eb;
+  border-color: #2563eb;
+  background-color: transparent;
+  border-width: 2px;
+  border-style: solid;
+  text-align: left;
+  width: 50px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  cursor: pointer;
+  font-weight: 600;
+}
